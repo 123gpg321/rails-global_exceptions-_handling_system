@@ -1,2 +1,2 @@
-# rails-global_exceptions-_handling_system
+# rails-global_exceptions_handling_system
 Rails example of handling global exceptions
